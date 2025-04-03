@@ -1,0 +1,38 @@
+Compulsory Task 1
+
+Note: The task did not explain how it wants me to include the graphs in my submission. Thus, I will upload a picture and also add a link
+to the online version.
+
+1) Which industries saw the most growth?
+
+The industries that have seen most growth are Consumer Products and Services, IT Services, Health and Advertising & Marketing.
+https://public.tableau.com/views/Inc_2014Task-Hyperion/GrowthbyIndustry?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+2) Do companies that have been on this list longer have a higher chance of appearing again in this list?
+
+It is not likely that companies that have been on the list longer have a higher chance of appearing again. 
+As you can see in the graph 'Growth by Years on List', companies that have been on the list for less amount of time, experience a way higher
+amount of growth on average than companies that have been on the list for longer. 
+Since the list is composed of only the top 5000 fastest growing companies, you can deduce that it is not more likely for companies that have been
+on the list for longer to appear again.
+https://public.tableau.com/views/Inc_2014Task-Hyperion/GrowthbyYearsonList?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+3) Does the number of workers in the company affect the growth of the company?
+
+There is no strong effect of number of workers on the growth of companies. The graph 'Growth by Amount of Workers' shows the relationship between workers and growth.
+The bigger the field, the bigger the growth of the company. The shade of the fields indicates the amount of workers: The darker the field, the more workers are employed.
+The graph shows that the companies with the largest amount of growth, have a diverse number of workers. Some companies have 200-300 workers, others have over 700 workers.
+
+However, it is also visible most companies with the largest number of workers (around 30.000 and more) have a lower amount of growth (as compared to other companies on this list).
+https://public.tableau.com/views/Inc_2014Task-Hyperion/GrowthbyAmountofWorkers?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+4) Which state can you find most of the IT companies in?
+
+You can find the most IT companies in California.
+https://public.tableau.com/views/Inc_2014Task-Hyperion/ITCompanysbyState?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+5) Which cities have seen the most growth?
+
+The cities that have seen the most total growth are El Segundo, California, New York City and Arlington, Virginia.
+https://public.tableau.com/shared/MZSFKZYYB?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Inc_2014Task-Hyperion/GrowthbyCityPart2?:language=en-US&:retry=yes&:sid=9871D89C9EEB4A5885C64F0D6BB1E855-0:0&:redirect=auth&publish=yes&:display_count=n&:origin=viz_share_link
