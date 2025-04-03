@@ -1,0 +1,37 @@
+Compulsory Task 1
+
+1. Define each of the following terms:
+    a) Data
+    b) Field
+    c) Record
+    d) File
+
+a) Data are raw facts that have not yet been processed. Data has to be processed to become information that is usable for decision making.
+b) Fields are a character or group of characters that are used to define and store data. In a spreadsheet it is usually represented as columns.
+c) A record is a logically connected set of fields or one field. A record can describe a thing. In a spreadsheet it is usually represented as rows.
+d) A file is a collection of records. In a spreadsheet it is represented as a table.
+
+2. What is a DBMS and what are its advantages?
+- Database management system: Programs that manage database structure and are a tool to access data in a database. It is the link between a user and the database.
+- advantages:
+    - better data sharing - Helps end users have efficient access to data.
+    - better data integration - Helps provide insight of organisation's operations by facilitating end users and managing the data that is input.
+    - less data inconsistency - Centralises the data of an organisation and thus avoids same data in different places and programs. -> Less redundancy more data integrity.
+    - better data access - DBMS provides quick answers through queries.
+    - better decision making - DBMS improve the quality of data by managing data well and providing data access -> Improves decision making in organisations.
+    - better end-user productivity - Being able to turn data into useful information helps users make better and quicker decisions.
+
+3. Explain the difference between data and information.
+- data: Data are raw facts that on their own don't help decision making. That is because no processing happened yet to reveal the data's meaning.
+- information: Information is processed data. That processing of raw data reveals their meaning.
+
+4. What is metadata?
+- data that describes other data
+- examples: date the data was added, date it was edited, author, file size
+
+5. Given the file below, answer the following questions:
+    e) How many records does the file contain?
+    f) How many fields are there per record?
+
+e) 4
+f) 5
