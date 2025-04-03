@@ -1,0 +1,102 @@
+Practical Task 1
+
+1)
+Which 3 countries have the lowest gender wage gap?
+    - Costa Rica
+    - Belgium
+    - Denmark
+
+Which 3 countries have the highest gender wage gap?
+    - Chile
+    - Japan
+    - Korea
+
+How does the country with the lowest gender wage gap achieve that?
+
+Costa Rica is achieving a low gender wage gap through means that can be divided into two categories. 
+They take measures to make it easier to share paid and unpaid work equally among the parents and increase the pay for women's paid work (OECD, 2024).
+Measures to share paid and unpaid work more easily include a better care system for children and elders, expanding parental leave from work and
+educating people to decrease gender stereotypes.
+Measures to increase the pay for women include a high quality education for each gender, promoting leadership positions and work in the STEM field to women,
+supporting women led entrepreneurship and increasing safety for women.
+
+Source:
+OECD (2024), Gender Equality in Costa Rica: Towards a Better Sharing of Paid and Unpaid Work, Gender Equality at Work,
+    OECD Publishing, Paris, https://doi.org/10.1787/a25e8f8a-en.
+
+2)
+Explain what is happening in the graph during March 2020 with regards to isopropanol sales.
+
+Despite a slight downwards trend in the previous months, the trend for isopropanol sales sky rockets in March 2020.
+This means that there is a sudden and strong upwards trend for the sales in March.
+In the section shown, there is no sign of a slowing of growth of sales yet, as the graphs don't flatten
+(despite a very small decrease in one of the graphs).
+
+Describe a possible reason for the observation you made about isopropanol sales in March 2020.
+
+On 11 March 2020 the WHO declared COVID-19 a pandemic. There was an increasing number of patients with the virus at hospitals,
+restaurants, businesses and shops were either closed or had to enforce strict hygiene regulations on their premises and many citizens stocked up on
+hand sanitizers to protect themselves and their families. 
+All of these factors contributed to an increase in need for isopropanol and thus increased sales strongly.
+
+Source:
+Centers for Disease Control and Prevention. (n.d.). COVID-19 Timeline. CDC Museum. Retrieved 20/02/2024, from
+    https://www.cdc.gov/museum/timeline/covid19.html#:~:text=CDC%20reports%20the%20first%20laboratory,respond%20to%20the%20emerging%20outbreak
+
+3)
+Discuss the relationship between CO2 emissions per person and GDP per capita for each continent listed in the figure legend.
+
+The figure shows the GDP per capita in relation to the CO2 emission per person. It appears that there is almost a linear relationship between
+the two. Countries with lower GDP per capita tend to have a lower CO2 emission per person. And countries with higher GDP tend to have higher CO2 emissions.
+
+You can see that European, American and Oceanian countries emit more CO2 than African countries.
+
+A reason could be that countries with high GDP per capita established some wealth through productions and businesses (like tech companies).
+Those businesses require a lot of energy and thus cause CO2 emissions. A recent example is the AI industry. Huge cloud-servers are needed to operate
+data centers to make the use of Large Language Models possible. Those create an immense amount of CO2.
+Another possible reason is that the people living in countries with high GDP have an excessively high standard of living. Frequent flights, new purchases of technology
+and clothes, large need for water (for luxuries like lawns, pools etc) can effect the emission of CO2 as well.
+
+There are a few cases where the relationship between GDP and CO2 emissions is less strong.
+There are a few countries (mainly sparsely populated and African or Asian) that have comparatively low CO2 emissions in comparison to their GDP.
+I believe that is the case because there are many areas in Asia and Africa where people live more "off the land" than others. 
+That means they produce enough food etc for themselves but don't indulge as many imports and luxuries as other countries.
+
+Further there are countries (mainly densely populated Asian countries, and a few sparsely populated African countries) that have relatively high
+C02 emissions with a comparatively low GDP. I suspect that that is the case because of developing countries in Asia (and Africa) where labour is cheap.
+Because of that many companies move their productions there. Hence, the population stays relatively poor but there are high emissions because of many factories.
+
+You can also see that many European countries have GDPs as high as American countries, but relatively less CO2 emissions.
+It is possible that that is because of EU regulations to reduce climate change, and a difference in education when it comes to wastefulness.
+
+Gordon, Noah J. (2023, February 14). Europe reminds the world what climate policy looks like. International Politics and Society. 
+    Retrieved from https://ip-quarterly.com/en/europe-reminds-world-what-climate-policy-looks-like
+Ritchie, H. (2020, October 23). Inequality in CO₂ emissions. Our World in Data. Retrieved from 
+    https://ourworldindata.org/inequality-co2
+Cho, R. (2023, June 9). AI's growing carbon footprint. Columbia Climate School. Retrieved from 
+    https://news.climate.columbia.edu/2023/06/09/ais-growing-carbon-footprint/
+
+
+ Practical Task 2
+
+ What do the graphs along the diagonal represent?
+
+    They show the amount of times that events show up. For example: Year House was built: 
+    This graph shows that there are more events of "House was built" in 2000 than in any other year.
+    Other example: Sale Price:
+    This graph shows that there more occurances of a sale price of about 125000 than 750000.
+    The exact amounts cannot be determined. But it gives a rough frame of reference.
+
+ Are most garages in Ames larger or smaller than 1000 ft2?
+
+    Yes
+
+ Are the most expensive houses in Ames built before or after 1950?
+
+    Generally after 1950. But there are a few expensive houses that were built before 1950.
+
+ Describe the relationship between ‘Size of Living Area’ and ‘Sale Price’.
+
+    Generally it seems like there is a linear relationship. The bigger the size of living area is the higher is the sale price.
+    However, there are a few outliers, that have a relatively low sale price but a big size of living area.
+    Further, but not as intense: there are a few houses that have a high price for less living area than other houses of that price.
