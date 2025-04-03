@@ -1,0 +1,37 @@
+1
+set largest_number to -1
+request a positive number or 0 to stop
+while entered number is not equal to 0
+	if entered number is bigger than current largest_number
+		make entered number the new largest_number
+	request another positive number
+print the largest_number
+
+2
+request name of user
+first_name is equal to entered user name
+print first_name and "Hello, World"
+
+3
+set counter to 0
+set total to 0
+read integers
+for each integer read
+	add integer to total
+	add +1 to counter
+calculate the average by dividing the total by the counter
+print the average
+
+
+4
+read grocery_list
+order items alphabetically
+if item is not marked as "bought"
+	print item name
+
+5
+Read X, Y
+calculate S by adding X and Y
+calculate A by dividing S by 2
+calculate P by multiplying X and Y
+print the values for S, A and P 
