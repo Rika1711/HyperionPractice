@@ -1,0 +1,40 @@
+{
+    "book_titles": [{
+        "To Kill a Mockingbird": {
+            "author": "Harper Lee",
+            "published_year": "1960",
+            "genre": "Historical Fiction",
+            "country_of_origin": "USA"
+        },
+        "1984": {
+            "author": "George Orwell",
+            "published_year": "1949",
+            "genre": "Science Fiction",
+            "country_of_origin": "USA"
+        },
+        "The Lord of the Rings": {
+            "author": "J.R.R. Tolkien",
+            "published_year": "1955",
+            "genre": "Fantasy",
+            "country_of_origin": "GB"
+        },
+        "The Name of the Wind": {
+            "author": "Patrick Rothfuss",
+            "published_year": "2007",
+            "genre": "Fantasy",
+            "country_of_origin": "USA"
+        },
+        "Pride & Prejudice": {
+            "author": "Jane Austen",
+            "published_year": "1813",
+            "genre": "Historical Romance",
+            "country_of_origin": "GB"
+        },
+        "Harry Potter and the Sorcerer’s Stone": {
+            "author": "J.K. Rowling",
+            "published_year": "1997",
+            "genre": "Fantasy",
+            "country_of_origin": "GB"
+        }
+    }]
+}
