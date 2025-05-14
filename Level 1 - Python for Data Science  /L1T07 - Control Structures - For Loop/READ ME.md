@@ -13,8 +13,15 @@ This program outputs a star pattern as shown below, using a single `for` loop an
 4.  The star character "*" is used to form the pattern.
 
 ## Output Pattern
-
-*****
+ *
+ **
+ ***
+ ****
+ *****
+ ****
+ ***
+ **
+ *
 ## How to Run the Program
 
 1.  Ensure you have Python installed.
