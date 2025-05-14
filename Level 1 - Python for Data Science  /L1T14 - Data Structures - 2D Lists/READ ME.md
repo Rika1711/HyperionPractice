@@ -18,6 +18,14 @@ This program takes a grid representing a minefield and returns a new grid where 
     * The function converts the mine count to a string and places it in the result grid.
 6.  The function returns the modified grid.
 
+## Example of an input:
+
+ [ ["-", "-", "-", "#", "#"],
+ ["-", "#", "-", "-", "-"],
+ ["-", "-", "#", "-", "-"],
+ ["-", "#", "#", "-", "-"],
+ ["-", "-", "-", "-", "-"] ]
+
 ## How to Run the Program
 
 1.  Ensure you have Python installed.
