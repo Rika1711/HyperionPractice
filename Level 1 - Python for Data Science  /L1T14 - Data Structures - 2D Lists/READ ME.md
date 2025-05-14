@@ -41,6 +41,11 @@ This program takes a grid representing a minefield and returns a new grid where 
  
  ["1", "2", "2", "1", "0"] ]
 
+## Libraries
+
+* `copy`
+* `pprint`
+
 ## How to Run the Program
 
 1.  Ensure you have Python installed.
