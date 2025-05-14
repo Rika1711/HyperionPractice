@@ -69,6 +69,9 @@ This program calculates the area of a triangle given the lengths of its three si
 4.  Calculates the area of the triangle using Heron's formula.
 5.  Prints the calculated area of the triangle.
 
+### Libraries
+* 'math'
+
 ## Optional Bonus Task 2: `optional_task2.py`
 
 This program takes the user's favorite restaurant and number as input and demonstrates type casting.
@@ -81,9 +84,6 @@ This program takes the user's favorite restaurant and number as input and demons
 4.  Prints the user's favorite restaurant (`string_fav`).
 5.  Prints the user's favorite number (`int_fav`).
 6.  Includes a comment explaining what happens when you try to cast `string_fav` to an integer and why it occurs.  (e.g., A ValueError occurs because the restaurant name is not a valid integer.)
-
-### Libraries
-*'math'
 
 ## How to Run the Programs
 
