@@ -15,13 +15,21 @@ This program outputs a star pattern as shown below, using a single `for` loop an
 ## Output Pattern
  
  \*
+ 
  \**
+ 
  \***
+ 
  \****
+ 
  \*****
+ 
  \****
+ 
  \***
+ 
  \**
+ 
  \*
 ## How to Run the Program
 
