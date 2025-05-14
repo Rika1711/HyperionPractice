@@ -70,6 +70,7 @@ This program calculates the area of a triangle given the lengths of its three si
 5.  Prints the calculated area of the triangle.
 
 ### Libraries
+
 * `math`
 
 ## Optional Bonus Task 2: `optional_task2.py`
