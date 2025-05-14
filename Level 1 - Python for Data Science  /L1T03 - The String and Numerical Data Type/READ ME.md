@@ -82,6 +82,9 @@ This program takes the user's favorite restaurant and number as input and demons
 5.  Prints the user's favorite number (`int_fav`).
 6.  Includes a comment explaining what happens when you try to cast `string_fav` to an integer and why it occurs.  (e.g., A ValueError occurs because the restaurant name is not a valid integer.)
 
+### Libraries
+*'math'
+
 ## How to Run the Programs
 
 1.  Ensure you have Python installed.
