@@ -1,4 +1,4 @@
-## Data Science Fundamentals
+## Level 2 | Data Science Fundamentals
 
 This section focuses on the foundational concepts and tools essential for data science. It showcases my journey in learning how to:
 
