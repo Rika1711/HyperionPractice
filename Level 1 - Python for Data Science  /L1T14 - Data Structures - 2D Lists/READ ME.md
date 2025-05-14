@@ -25,9 +25,3 @@ This program takes a grid representing a minefield and returns a new grid where 
 3.  Open a command prompt or terminal.
 4.  Navigate to the directory where you saved the file using the `cd` command.
 5.  Run the program using the command: `python minesweeper.py`
-
-## Example Usage
-
-The program can be run with an input like this:
-
-[["-", "-", "-", "#", "#"],["-", "#", "-", "-", "-"],["-", "-", "#", "-", "-"],["-", "#", "#", "-", "-"],
