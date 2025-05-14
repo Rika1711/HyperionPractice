@@ -21,10 +21,25 @@ This program takes a grid representing a minefield and returns a new grid where 
 ## Example of an input:
 
  [ ["-", "-", "-", "#", "#"],
+ 
  ["-", "#", "-", "-", "-"],
+ 
  ["-", "-", "#", "-", "-"],
+ 
  ["-", "#", "#", "-", "-"],
+ 
  ["-", "-", "-", "-", "-"] ]
+
+## Example of the expected output:
+ [ ["1", "1", "2", "#", "#"],
+ 
+ ["1", "#", "3", "3", "2"],
+ 
+ ["2", "4", "#", "2", "0"],
+ 
+ ["1", "#", "#", "2", "0"],
+ 
+ ["1", "2", "2", "1", "0"] ]
 
 ## How to Run the Program
 
