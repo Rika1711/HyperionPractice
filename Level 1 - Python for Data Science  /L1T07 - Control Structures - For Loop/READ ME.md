@@ -14,15 +14,23 @@ This program outputs a star pattern as shown below, using a single `for` loop an
 
 ## Output Pattern
  
- \*\n
- \**\n
- \***\n
- \****\n
- \*****\n
- \****\n
- \***\n
- \**\n
- \*\n
+ \*
+ 
+ \**
+ 
+ \***
+ 
+ \****
+ 
+ \*****
+ 
+ \****
+ 
+ \***
+ 
+ \**
+ 
+ \*
 ## How to Run the Program
 
 1.  Ensure you have Python installed.
