@@ -37,7 +37,4 @@ This task focuses on building and evaluating a binary logistic regression classi
 * `numpy`
 * `pandas`
 * `matplotlib.pyplot`
-* `sklearn.model_selection`
-* `sklearn.linear_model`
-* `sklearn.preprocessing`
-* `sklearn.metrics`
+* `sklearn`
