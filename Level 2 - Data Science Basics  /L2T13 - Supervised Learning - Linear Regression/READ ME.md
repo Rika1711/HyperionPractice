@@ -74,7 +74,4 @@ This task focuses on building a multiple linear regression model to predict diab
   * `numpy`
   * `pandas`
   * `matplotlib.pyplot`
-  * `sklearn.linear_model`
-  * `sklearn.preprocessing`
-  * `sklearn.model_selection`
-  * `sklearn.metrics`
+  * `sklearn`
