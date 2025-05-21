@@ -60,8 +60,5 @@ This capstone project involves building and evaluating a multiple linear regress
 * `pandas`
 * `matplotlib.pyplot`
 * `seaborn`
-* `sklearn.linear_model`
-* `sklearn.preprocessing`
-* `sklearn.model_selection`
-* `sklearn.metrics`
+* `sklearn`
 * `statistics`
