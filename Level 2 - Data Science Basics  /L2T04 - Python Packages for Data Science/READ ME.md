@@ -36,7 +36,7 @@ This task involves creating a Python program to explore and manipulate NumPy arr
 
 ### Libraries:
 
-`numpy`
+* `numpy`
 
 ### How to Run `numpy_task.py`:
 
