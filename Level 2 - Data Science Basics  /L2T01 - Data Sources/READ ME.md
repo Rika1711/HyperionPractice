@@ -34,6 +34,7 @@ This task requires the creation of a JSON file named `books.json` containing dat
   }
   // ... more books
 ]
+```
 
 ## Compulsory Task 2: `taskXML.py`
 
@@ -58,3 +59,23 @@ This task involves creating a Python program to read and process data from an XM
     ```
 
 ### Expected Output (Illustrative):
+
+---
+
+**Note:** Ensure that `movie.xml` is properly structured for `taskXML.py` to parse it correctly. A sample `movie.xml` might look like this:
+
+```xml
+<movies>
+  <movie>
+    <title>Movie Title 1</title>
+    <description>A thrilling adventure.</description>
+    <genre>Action</genre>
+    <favourite>yes</favourite>
+  </movie>
+  <movie>
+    <title>Movie Title 2</title>
+    <description>A heartwarming story.</description>
+    <genre>Drama</genre>
+    <favourite>no</favourite>
+  </movie>
+  </movies>
